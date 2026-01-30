@@ -1,5 +1,7 @@
 Day 1:
 Learned git init and git status
 Day 2:
-Learned git add and git commit 
+Learned git add and git commit
+Day 3:
+Learned git branch and merge 
 
