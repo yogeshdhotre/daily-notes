@@ -1,0 +1,3 @@
+Day 1:
+Learned git init and git status
+
